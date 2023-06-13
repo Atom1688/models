@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>IMG_20220208_190218 - Copia.png</filename>
+	<path>F:\Documentos\PUC\7° Período\Projeto Transformador\hardware pics\test\64x64\6\IMG_20220208_190218 - Copia.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ssd-m2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>1</ymin>
+			<xmax>35</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

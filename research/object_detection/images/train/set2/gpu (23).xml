@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>gpu (23).png</filename>
+	<path>F:\Documentos\PUC\7° Período\Projeto Transformador\hardware pics\train\64x64\set-2\1\gpu (23).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gpu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>20</ymin>
+			<xmax>59</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

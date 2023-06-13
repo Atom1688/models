@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>IMG_20220208_190231.png</filename>
+	<path>F:\Documentos\PUC\7° Período\Projeto Transformador\hardware pics\test\64x64\5\IMG_20220208_190231.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ssd-sata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>8</ymin>
+			<xmax>50</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

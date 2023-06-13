@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>cpu (40).png</filename>
+	<path>F:\Documentos\PUC\7° Período\Projeto Transformador\hardware pics\train\64x64\set-2\0\cpu (40).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cpu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>18</ymin>
+			<xmax>54</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

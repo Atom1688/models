@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>IMG_20220208_191739.png</filename>
+	<path>F:\Documentos\PUC\7° Período\Projeto Transformador\hardware pics\test\64x64\1\IMG_20220208_191739.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gpu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>17</ymin>
+			<xmax>61</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

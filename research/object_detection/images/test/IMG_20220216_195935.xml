@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>IMG_20220216_195935.png</filename>
+	<path>F:\Documentos\PUC\7° Período\Projeto Transformador\hardware pics\test\64x64\0\IMG_20220216_195935.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cpu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>29</ymin>
+			<xmax>64</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>
